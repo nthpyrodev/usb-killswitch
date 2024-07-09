@@ -2,6 +2,9 @@
 # USB Kill Switch
 
 This project is designed for whistleblowers/journalists in oppressive regimes. Please keep in mind that the Linux version is not ready, so stick with the Windows version for now. It would be great if anyone could contribute to this project though!
+
+The Windows version ends with a w, while the Linux version ends with a l.
+
 ## How to run
 
 Prerequisites:
