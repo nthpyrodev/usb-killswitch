@@ -3,7 +3,7 @@
 
 This project is designed for whistleblowers/journalists in oppressive regimes. Please keep in mind that the Linux version is not ready, so stick with the Windows version for now. It would be great if anyone could contribute to this project though!
 
-The Windows version ends with a w, while the Linux version ends with a l.
+Linux is not fully supported yet.
 
 ## How to run
 
@@ -36,5 +36,12 @@ Put the Python script anywhere you want. It will detect any type of change, whet
 
 If the killswitch gets triggered, then you must disarm then rearm again to reactivate it.
 
+# Contributing
 
-![image](https://github.com/nthpyrodev/usb-killswitch-but-better/assets/112079617/228a6001-303d-4ab3-b4a3-2978fd19b913)
+Contributors are welcome, even if the changes are minor, or even just improving the ReadMe.
+
+
+![image](https://github.com/user-attachments/assets/d6c5d20b-e791-4cc7-b974-ed07a69ac433)
+![image](https://github.com/user-attachments/assets/3a292a4a-599e-4b42-a642-0a98b7ccc008)
+
+
