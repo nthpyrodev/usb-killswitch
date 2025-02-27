@@ -530,10 +530,10 @@ def create_gui():
                                   command=on_usb_pause_button_click, state=tk.DISABLED)
     usb_pause_button.pack(side=tk.LEFT, padx=5)
     
-    # commented out until I add something to show actual status, like if no tasks are selected, then it shouldn't work
-#    usb_status_label = ttk.Label(usb_monitor_frame, text="Status: Not Armed")
-#    usb_status_label.pack(fill=tk.X, padx=5, pady=5)
+    usb_status_label = ttk.Label(usb_monitor_frame, text="Status: Not Armed")
+    usb_status_label.pack(fill=tk.X, padx=5, pady=5)
 
+    # commented out until I add something to show actual status, like if no tasks are selected, then it shouldn't work
 #    status_info_frame = ttk.LabelFrame(monitor_frame, text="Current Status")
 #    status_info_frame.pack(fill=tk.X, padx=10, pady=10)
     
