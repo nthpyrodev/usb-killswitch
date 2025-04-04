@@ -50,7 +50,7 @@ class USBMonitor:
             drives = subprocess.run("wmic logicaldisk get name", capture_output=True, text=True).stdout.split()
             return any(drive.startswith(self.usb_label) for drive in drives)
         elif self.os_type == "Linux":
-            return os.path.ismount(f"/media/{self.usb_label}")
+            return os.path.ismount(f"/media/{self.usb_label}") # Assumes that the usb is in /media
         return False
 
     def dismount_veracrypt_volumes(self):
