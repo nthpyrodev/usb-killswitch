@@ -3,7 +3,7 @@
 
 This project is designed for whistleblowers/journalists in oppressive regimes. Please keep in mind that the Linux version is not ready, so stick with the Windows version for now. It would be great if anyone could contribute to this project though!
 
-Linux is not fully supported yet.
+~~Linux is not fully supported yet.~~ I have completeley pivoted for the nth time. If you're using Windows, then you should consider switching to Linux. While I do plan to carry on with the Windows version, I'm going to be primarily focusing on the Linux version. Keep in mind that some features have not been properly tested, and should not be relied upon. The rest of the readme is outdated, so ignore it for now, until I update it.
 
 ## How to run
 
